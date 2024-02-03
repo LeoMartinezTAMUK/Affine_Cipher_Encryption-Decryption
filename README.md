@@ -37,7 +37,8 @@ This Python program implements the Affine Cipher, a type of transposition cipher
 Everything needed along with additional installation information to run the program will be contained in this folder.
 
 Here is a brief explanation of the items:
-- src: folder that contains the source code python script: main.py (use this file to run the program)
-- README.md: contains most basic information about the project
+- **src:** folder that contains the source code python script: main.py (use this file to run the program)
+- **README.md:** contains most basic information about the project
+- **LICENSE:** Contains license information in regards to the Github repository
 
 Additionally, ensure the "math" python is properly installed in your virtual environment as the .gcd() method is needed to ensure error checking to assist with decryption integrity.
