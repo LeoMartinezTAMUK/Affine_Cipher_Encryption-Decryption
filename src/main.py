@@ -1,4 +1,4 @@
-# Affine Cipher Algorithm Encrypt/Decrypt (Substitution  Cipher)
+# Affine Cipher Algorithm Encrypt/Decrypt (Substitution Cipher)
 # Leo Martinez III
 # Created Sping 2024
 
