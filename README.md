@@ -8,7 +8,7 @@
 
 ---
 
-This Python program implements the Affine Cipher, a type of transposition cipher, for encrypting and decrypting messages. The Affine Cipher uses a pair of keys, alpha (a) and beta (b), to transform plaintext into ciphertext and vice versa.
+This Python program implements the Affine Cipher, a type of substitution cipher, for encrypting and decrypting messages. The Affine Cipher uses a pair of keys, alpha (a) and beta (b), to transform plaintext into ciphertext and vice versa.
 
 ### Encryption:
 
